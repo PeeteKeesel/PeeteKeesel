@@ -1,5 +1,5 @@
-- :books: Pursuing MSc in Data Science @ [University of Potsdam](https://www.uni-potsdam.de/en/university-of-potsdam)
-- :mortar_board: Currently conducting research on Graph Neural Networks (GNNs) for cancer-related drug response prediction @ [Hasso-Plattner Institute](https://hpi.de/)
-- :computer: Working on Semi-Supervised Learning (SSL) and interested in applications of GNNs
-- :bulb: Open to collaborating on projects and innovative ideas
-- :dart: I like clean code and nice repositories
+- :books: Pursuing M.Sc. in Data Science @ [University of Potsdam](https://www.uni-potsdam.de/en/university-of-potsdam)
+- :mortar_board: Currently research on Graph Neural Networks (GNNs) for cancer-related drug response prediction @ [Hasso-Plattner Institute](https://hpi.de/)
+- :computer: Working on Semi-Supervised Learning (SSL) @ [Klarna](https://www.klarna.com/)
+- :thinking: Interested in RL and applications of GNNs
+- :bulb: Open to collaborating on projects
