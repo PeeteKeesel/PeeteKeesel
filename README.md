@@ -1,13 +1,5 @@
 
-## :book: About Me
-
-
-
-<table>
-<tr>
-</tr>
-<tr>
-<td>
+## :book: About Me <img src="nn_gif.gif" width="300" height="300" align="right">
 
 - :metal: Hi there, I'm Clem
 - :computer: Currently working as a data scientist @ Klarna in Berlin
@@ -21,12 +13,3 @@
       <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="mysql" width="45" height="55"/>  
       <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" width="120" height="70"/>
 </p>
-
-</td>
-<td>
-
-<img src="nn_gif.gif" width="300" height="200">
-
-</td>
-</tr>
-</table>
