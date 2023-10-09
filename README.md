@@ -2,8 +2,7 @@
 ## :book: About Me <img src="nn_gif.gif" width="300" height="300" align="right">
 
 - :metal: Hi there, I'm Clem
-- :computer: Currently working as a data scientist @ Klarna in Berlin
-- :mortar_board: Studied applied math (BS) and data science (MS) at the University of Potsdam
+- :computer: Currently working as a data scientist in Berlin
 - :thinking: Interested in RL and applications of GNNs
 - :bulb: Open to collaborating on projects
 - :technologist: Tech I work on:
