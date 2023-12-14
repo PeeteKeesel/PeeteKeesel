@@ -3,7 +3,7 @@
 
 - 🤘 Hi there, I'm Clem
 - 💻 Currently working as a data scientist in Berlin
-- 🤔 Interested in RL and applications of GNNs
+- 🧠 Interested in RL and applications of GNNs
 - 💡 Open to collaborating on projects
 - 🔨 Tech I work on:
 
