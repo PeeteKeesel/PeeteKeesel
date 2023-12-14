@@ -5,7 +5,7 @@
 - :computer: Currently working as a data scientist in Berlin
 - :thinking: Interested in RL and applications of GNNs
 - :bulb: Open to collaborating on projects
-- :technologist: Tech I work on:
+- :hammer: Tech I work on:
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
