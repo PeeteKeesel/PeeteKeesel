@@ -1,5 +1,5 @@
 
-## 📚 About Me <img src="nn_gif.gif" width="450" height="300" align="right">
+## 📚 About Me <img src="nn_gif.gif" width="400" height="300" align="right">
 
 - 🤘 Hi there, I'm Clem
 - 💻 Currently working as a Sr. Data Scientist in Berlin.
