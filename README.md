@@ -14,5 +14,6 @@
       <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" width="120" height="70"/>
 </p>
 
-## 🏆 My GitHub Statistics
+--- 
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=peetekeesel&show_icons=true&theme=synthwave)
