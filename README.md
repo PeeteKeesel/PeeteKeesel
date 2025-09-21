@@ -2,7 +2,7 @@
 ## 📚 About Me <img src="nn_gif.gif" width="400" height="300" align="right">
 
 - 🤘 Hi there, I'm Clem
-- 💻 Currently working as a Sr. Data Scientist in Berlin.
+- 💻 Currently working as an applied scientist in Berlin.
 - 🧠 Passionate about the math and applications of RL and GNNs.
 - 💡 Always open to exciting projects and opportunities to collaborate! 
 - 🔨 Tech I work on:
